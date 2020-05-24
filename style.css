@@ -1,0 +1,25 @@
+body {
+	margin: 0 auto;
+	width: 57%;
+}
+h1{
+	font-family: sans-serif;
+	font-size: 32px;
+}
+h2, h3 {
+	font-family: sans-serif;
+}
+figure {
+	float: right;
+	font-style: italic;
+}
+table {
+	border: 1px solid black;
+	margin: left;
+}
+th,td{
+	border: 1px solid black;
+}
+div {
+	margin-top: 1.5em;
+}
